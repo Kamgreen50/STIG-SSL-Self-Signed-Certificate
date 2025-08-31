@@ -13,16 +13,12 @@
 - Options:  
   1. Public CA (Let’s Encrypt, DigiCert, etc.)  
   2. Enterprise CA (Active Directory Certificate Services).  
-- Verify the certificate chain using browser or `certutil`.
+- Verify the new certificate chain using browser or certutil.
 
-## After
-- Expected outcome: Certificate trusted by a recognized CA.
-- Evidence (placeholders for now – no VM access):  
+## After Remediation
+(Placeholder – will add screenshots once fixed and rescanned)
 
-![After Cert Placeholder](placeholder-after-cert-details.png)  
-![After Tenable Placeholder](placeholder-after-tenable-rescan.png)  
-
----
-**Note:** Actual remediation not performed due to no VM access. Placeholders used.
-
+- Confirm Tenable no longer reports plugin ID 57582.
+- Proof: Updated Tenable scan screenshot (to be added).
+- Proof: Updated certificate details screenshot (to be added).
 
